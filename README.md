@@ -48,9 +48,9 @@ At CoreFour.ai, we combine diverse technical domains to deliver scalable and eff
 
 Our team is built on specialized roles:
 
+- **Manish** — AI/ML Engineer 🤖
 - **Naman** — Data Scientist 📊  
-- **Poonam** — DevOps Engineer ⚙️  
-- **Manish** — AI/ML Engineer 🤖  
+- **Poonam** — DevOps Engineer ⚙️    
 - **Sahil** — Full Stack Developer 🌐  
 
 Together, we bring a balanced combination of development, data, and infrastructure expertise.
